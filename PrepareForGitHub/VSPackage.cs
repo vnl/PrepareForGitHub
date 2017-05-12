@@ -16,9 +16,9 @@ namespace PrepareForGitHub
     [InstalledProductRegistration("#110", "#112", Vsix.Version, IconResourceID = 400)]       
     [ProvideMenuResource("Menus.ctmenu", 1)]
     [Guid(PackageGuids.guidPrepForGitPackageString)]
-    public sealed class PrepForGitPackage : Package
+    public sealed class VSPackage : Package
     {
-        public PrepForGitPackage()
+        public VSPackage()
         {
         }
 
