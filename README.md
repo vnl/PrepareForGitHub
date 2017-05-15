@@ -15,18 +15,13 @@ See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Features
 
-- Feature 1
-- Feature 2
-  - Sub feature
+- Extracted from [Extensibility Tools](https://github.com/madskristensen/ExtensibilityTools)
+- Supports Vsix Projects
 
-### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
+### Usage
+Right-click the solution node in Solution Explorer and click both of the buttons shown below.
+![Solution Context Menu](art/solution-context-menu.png)
 
-### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
-
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
 
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md)
@@ -34,7 +29,7 @@ if you want to contribute to this project.
 
 For cloning and building this project yourself, make sure
 to install the
-[Extensibility Tools 2015](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
+[Extensibility Tools](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
 extension for Visual Studio which enables some features
 used by this project.
 
