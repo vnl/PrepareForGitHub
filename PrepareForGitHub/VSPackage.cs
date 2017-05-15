@@ -9,6 +9,7 @@ using Microsoft.VisualStudio.OLE.Interop;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
 using Microsoft.Win32;
+using PrepareForGitHub.Shared.Helpers;
 
 namespace PrepareForGitHub
 {
@@ -21,9 +22,12 @@ namespace PrepareForGitHub
         public VSPackage()
         {
         }
-
         protected override void Initialize()
         {
+
+            Logger.Initialize(this, Vsix.Name);
+            ProjectHelpers.Initialize(this);
+
             PrepForGit.Initialize(this);
             base.Initialize();
         }

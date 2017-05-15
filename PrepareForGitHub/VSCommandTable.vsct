@@ -8,7 +8,7 @@
   <Commands package="guidPrepForGitPackage">
     <Groups>
       <Group guid="guidPrepForGitPackageCmdSet" id="MyMenuGroup" priority="0x0600">
-        <Parent guid="guidSHLMainMenu" id="IDG_VS_CTXT_SOLUTION_ADD"/>
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_SOLNNODE"/>
       </Group>
     </Groups>
 
