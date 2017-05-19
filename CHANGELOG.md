@@ -1,7 +1,7 @@
 # Road map
 
-- [x] A feature that has been completed
-- [ ] A feature that has NOT yet been completed
+- [x] First release
+- [ ] Support different projects
 
 Features that have a checkmark are complete and available for
 download in the
@@ -14,7 +14,4 @@ on the official Visual Studio extension gallery.
 
 ## 1.0
 
-- [x] Initial release extracting functionality from 
-- [x] Feature 1
-- [x] Feature 2
-  - [x] Sub feature
+- [x] Initial release extracting functionality from [Extensibility Tools](https://github.com/madskristensen/ExtensibilityTools)

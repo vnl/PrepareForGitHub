@@ -1,7 +1,7 @@
 # Prepare For GitHub
 
 <!-- Replace this badge with your own-->
-[![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
+[![Build status](https://ci.appveyor.com/api/projects/status/qhnnm9tphyb9hy7e?svg=true)](https://ci.appveyor.com/project/vnl/prepareforgithub)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
 Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
@@ -21,6 +21,8 @@ See the [change log](CHANGELOG.md) for changes and road map.
 ### Usage
 Right-click the solution node in Solution Explorer and click both of the buttons shown below.
 ![Solution Context Menu](art/solution-context-menu.png)
+
+That will add some files to the solution folder that require almost no modifications by you. These files are common GitHub files such as CONTRIBUTION.md (tailored to VSIX development), CHANGELOG.md etc.
 
 
 ## Contribute
