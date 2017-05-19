@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/qhnnm9tphyb9hy7e?svg=true)](https://ci.appveyor.com/project/vnl/prepareforgithub)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
+Download this extension from the [VS Gallery](https://marketplace.visualstudio.com/vsgallery/cc0a26a0-b200-4c47-babe-0de32ad2c231)
 or get the [CI build](http://vsixgallery.com/extension/7a42d726-bce1-4c17-8341-e455584ddb90/).
 
 ---------------------------------------
