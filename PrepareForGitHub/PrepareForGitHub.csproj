@@ -71,9 +71,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\LICENSE">
+    <Content Include="..\LICENSE">
       <Link>Resources\LICENSE</Link>
-    </None>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="packages.config" />
     <Content Include="Resources\GitHub\CHANGELOG.md">
       <IncludeInVSIX>true</IncludeInVSIX>
